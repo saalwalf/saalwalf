@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salwa Alifah</h1>
 <h3 align="center">A passionate Data Science Student from Indonesia. My main interests are Computer Vision and Natural Language Processing.</h3>
 
-- 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **saalwalf@gmail.com**
 
